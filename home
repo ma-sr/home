@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <div class="logo"><a href="https://massa.com"><h1>MASSA</h1></a></div>
+    </header>
+    <div class="all-show-case">
+        <div class="notice"><h2>お知らせ</h2><p>1/1までに購入するとプレゼントがもらえます</p></div>
+        <div class="show-case show-case-1"><a href="#"><img src="images/showcase1.jpg" alt="show-case1"/></a></div>
+        <div class="show-case show-case-2"><a href="#"><img src="images/showcase2.jpg" alt="show-case2"/></a></div>
+        <div class="show-case show-case-3"><a href="#"><img src="images/showcase3.jpg" alt="show-case3"/></a></div>
+    </div>
+<footer>
+&copy;MASSA
+</footer>
+</body>
+</html>
